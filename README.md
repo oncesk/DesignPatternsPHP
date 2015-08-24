@@ -1,5 +1,7 @@
 # DesignPatternsPHP
 
+[![Join the chat at https://gitter.im/oncesk/DesignPatternsPHP](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/oncesk/DesignPatternsPHP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/domnikl/DesignPatternsPHP.png?branch=master)](https://travis-ci.org/domnikl/DesignPatternsPHP)
 
 This is a collection of known design patterns and some sample code how to implement them in PHP. Every pattern has a small list of examples (most of them from Zend Framework, Symfony2 or Doctrine2 as I'm most familiar with this software).
